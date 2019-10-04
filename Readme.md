@@ -1,8 +1,8 @@
 # run main.py  
 
-#change dataet 
+#change dataset 
 
-**data.py** file change dataset remove missing value and scale value between 0 and 1
+**data.py** you can change dataset. remove missing value and scale value between 0 and 1
 
 # hyperparamter can be change in main.py file 
 
